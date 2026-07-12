@@ -1,0 +1,16 @@
+# Backend Requirements
+# Smart Attendance System Backend
+# Python 3.10+
+
+# Web Framework
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+python-multipart>=0.0.9
+
+# Computer Vision
+opencv-python>=4.9.0
+numpy>=1.26.0
+
+# Face Recognition
+insightface>=0.7.3
+onnxruntime>=1.17.0
