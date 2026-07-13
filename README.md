@@ -196,7 +196,7 @@ This project was developed collaboratively as part of our **Diploma Minor Projec
 
 ### **[@suyash8992-arch](https://github.com/suyash8992-arch)**
 
-**Suyash**
+**Suyash Sharma**
 
 Project Lead • Backend Development • Face Recognition • Raspberry Pi Integration • Networking • GitHub Repository Management
 
@@ -222,7 +222,7 @@ Project Lead • Backend Development • Face Recognition • Raspberry Pi Integ
 
 ### **[@Aditya-Mishra09](https://github.com/Aditya-Mishra09)**
 
-**Aditya**
+**Aditya Mishra**
 
 Hardware Integration • Hardware Assembly • System Testing • Validation
 
@@ -248,7 +248,7 @@ Hardware Integration • Hardware Assembly • System Testing • Validation
 
 ### **[@Yashbhavsar0105](https://github.com/Yashbhavsar0105)**
 
-**Yash**
+**Yash Bhavsar**
 
 Frontend Development • Dashboard Design • UI Development
 
