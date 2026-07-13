@@ -181,23 +181,45 @@ This project is licensed under the **MIT License**.
 
 ## 👥 Contributors
 
-## 👥 Contributors
+<table>
+<tr>
+<td width="80" align="center">
+<img src="https://github.com/suyash8992-arch.png" width="70" alt="Suyash">
+</td>
 
-<p align="center">
+<td>
 
-<a href="https://github.com/suyash8992-arch">
-  <img src="https://github.com/suyash8992-arch.png" width="100" alt="Suyash"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+### **[@suyash8992-arch](https://github.com/suyash8992-arch)**
 
-<a href="https://github.com/Aditya-Mishra09">
-  <img src="https://github.com/Aditya-Mishra09.png" width="100" alt="Aditya"/>
-</a>
+**Suyash**
 
-</p>
+Project Lead • Backend Development • AI • Raspberry Pi Integration
 
-<p align="center">
-<b><a href="https://github.com/suyash8992-arch">Suyash</a></b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b><a href="https://github.com/Aditya-Mishra09">Aditya</a></b>
-</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+---
+
+</td>
+</tr>
+
+<tr>
+<td width="80" align="center">
+<img src="https://github.com/Aditya-Mishra09.png" width="70" alt="Aditya">
+</td>
+
+<td>
+
+### **[@Aditya-Mishra09](https://github.com/Aditya-Mishra09)**
+
+**Aditya**
+
+Hardware Integration • Testing
+
+</td>
+</tr>
+
+</table>
