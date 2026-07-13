@@ -179,12 +179,17 @@ This project is licensed under the **MIT License**.
 ⭐ If you like this project, consider giving it a star!
 
 
-## 👥 Contributors
+# 👥 Project Team
+
+This project was developed collaboratively as part of our **Diploma Minor Project**.
 
 <table>
+
 <tr>
 <td width="80" align="center">
+<a href="https://github.com/suyash8992-arch">
 <img src="https://github.com/suyash8992-arch.png" width="70" alt="Suyash">
+</a>
 </td>
 
 <td>
@@ -193,7 +198,7 @@ This project is licensed under the **MIT License**.
 
 **Suyash**
 
-Project Lead • Backend Development • AI • Raspberry Pi Integration
+Project Lead • Backend Development • Face Recognition • Raspberry Pi Integration • Networking • GitHub Repository Management
 
 </td>
 </tr>
@@ -208,7 +213,9 @@ Project Lead • Backend Development • AI • Raspberry Pi Integration
 
 <tr>
 <td width="80" align="center">
+<a href="https://github.com/Aditya-Mishra09">
 <img src="https://github.com/Aditya-Mishra09.png" width="70" alt="Aditya">
+</a>
 </td>
 
 <td>
@@ -217,7 +224,33 @@ Project Lead • Backend Development • AI • Raspberry Pi Integration
 
 **Aditya**
 
-Hardware Integration • Testing
+Hardware Integration • Hardware Assembly • System Testing • Validation
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+---
+
+</td>
+</tr>
+
+<tr>
+<td width="80" align="center">
+<a href="https://github.com/Yashbhavsar0105">
+<img src="https://github.com/Yashbhavsar0105.png" width="70" alt="Yash">
+</a>
+</td>
+
+<td>
+
+### **[@Yashbhavsar0105](https://github.com/Yashbhavsar0105)**
+
+**Yash**
+
+Frontend Development • Dashboard Design • UI Development
 
 </td>
 </tr>
