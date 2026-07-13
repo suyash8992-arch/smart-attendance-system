@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Smart Attendance System Banner" width="100%">
+</p>
 
 # 🎓 Smart Attendance System using Face Recognition
 
@@ -26,7 +29,7 @@ The system follows a distributed architecture where a **Raspberry Pi** captures 
 ### 16×2 LCD Display
 
 <p align="center">
-  <img src="assets/lcd-display.jpeg" width="700">
+  <img src="assets/lcd-display.png" width="700">
 </p>
 
 ---
@@ -68,27 +71,10 @@ The Raspberry Pi captures live images through a webcam and sends them to a FastA
 
 # 🏗️ System Architecture
 
-```text
-                    Webcam
-                       │
-                       ▼
-             Raspberry Pi Client
-                       │
-          HTTP Image Upload Request
-                       │
-                       ▼
-          FastAPI Backend (MacBook)
-                       │
-              Face Recognition
-             (InsightFace Model)
-                       │
-        ┌──────────────┴──────────────┐
-        ▼                             ▼
- attendance.csv              Attendance Dashboard
-        │
-        ▼
- 16×2 LCD Display
-```
+<p align="center">
+  <img src="assets/architecture.png" width="700">
+</p>
+
 
 ---
 
@@ -175,10 +161,10 @@ This project was developed as part of our **Diploma Minor Project**.
 | Team Member | Contribution |
 |-------------|--------------|
 | Suyash | Backend, Face Recognition, Raspberry Pi Integration, Networking |
-| Member 2 | Hardware & Testing |
-| Member 3 | Frontend |
-| Member 4 | Documentation |
-| Member 5 | Testing & Validation |
+| Aditya | Hardware & Testing |
+| Yash | Frontend |
+| Madhav| Documentation |
+| Siddharth | Testing & Validation |
 
 > Update the names and contributions before publishing.
 
