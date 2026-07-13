@@ -181,13 +181,23 @@ This project is licensed under the **MIT License**.
 
 ## 👥 Contributors
 
-<p align="center">
-<a href="https://github.com/suyash8992-arch">
-<img src="https://github.com/suyash8992-arch.png" width="90" alt="Suyash"/><br>
-<b>Suyash</b>
+## 👥 Contributors
 
+<p align="center">
+
+<a href="https://github.com/suyash8992-arch">
+  <img src="https://github.com/suyash8992-arch.png" width="100" alt="Suyash"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/Aditya-Mishra09">
-<img src="https://github.com/Aditya-Mishra09.png" width="90" alt="Aditya"/><br>
-<b>Aditya</b>
+  <img src="https://github.com/Aditya-Mishra09.png" width="100" alt="Aditya"/>
 </a>
+
+</p>
+
+<p align="center">
+<b><a href="https://github.com/suyash8992-arch">Suyash</a></b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><a href="https://github.com/Aditya-Mishra09">Aditya</a></b>
+</p>
